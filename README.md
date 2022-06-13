@@ -26,6 +26,7 @@ A ideia do App é:
 * Realizar pesquisas e filtros.
 
 # Construido com:
+* Nodejs - Para costruir toda a API.
 * Bcryptjs - Para criptografia.
 * Mysql - Rodei um banco de dados local utilizando Xampp, essa aplicação teve uso de dados relacionados com chave estrangeira.
 * Sequelize - ORM para manipular mysql.
